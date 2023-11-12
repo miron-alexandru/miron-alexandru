@@ -15,4 +15,5 @@
 - **Technologies Used:** Python / Django / HTML / CSS / JavaScript / API Integration / SQLite 3
 - **Demo/Preview:** -
 
-
+### My LeetCode Progress
+![Leetcode Stats](https://leetcard.jacoblin.cool/khadaake)
