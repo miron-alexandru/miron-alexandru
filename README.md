@@ -12,7 +12,7 @@
 
 ### [PlayStyle Compass](https://github.com/KhadaAke/PlayStyleCompass)
 
-- **Description:** A platform designed for users seeking tailored video game recommendations. Users can sign up to create an account and define their unique playstyle, share preferences, gaming history and favorite genres to unlock tailored recommendations. Access comprehensive details for each game, including descriptive information, themes, developers, similar games, and a visual showcase with images. Explore features such as game reviews, both reading and writing, and the ability to build a curated list of your all-time favorite games, and many more.
+- **Description:** A platform designed for users seeking tailored video game recommendations. Users can sign up to create an account and define their unique playstyle, share preferences, gaming history and favorite genres to unlock tailored recommendations. Access comprehensive details for each game, including descriptive information, themes, developers, similar games, and a visual showcase with images. Explore features such as game reviews, both reading and writing, the ability to build a curated list of your all-time favorite games, share games with other users, find users with similar playstyles and many other features.
 - **Technologies Used:** Python / Django / HTML / CSS / JavaScript / API Integration / SQLite 3
 - **Demo/Preview:** -
 
