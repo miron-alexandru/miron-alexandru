@@ -4,13 +4,13 @@
 
 ### My Notable Projects
 
-### [Alien Onslaught](https://github.com/KhadaAke/Alien-Onslaught)
+### [Alien Onslaught](https://github.com/miron-alexandru/Alien-Onslaught)
 
 - **Description:** Alien Onslaught is an space shooting arcade game where you fight against fleets of aliens in order to complete each level and get a higher score. As the level increases the enemies are getting stronger and boss fights are occuring. The game offers multiple features: Different Game Modes / Boss Fights / PvP / Power Ups / both Multiplayer and Singleplayer mode / Different Difficulties / Different Ships / Save & Load feature, and many more.
 - **Technologies Used:** Python, Pygame, Tkinter.
-- **Demo/Preview:** [Game Images can be found here](https://github.com/KhadaAke/Alien-Onslaught/tree/main/game_assets/images/game_images)
+- **Demo/Preview:** [Game Images can be found here](https://github.com/miron-alexandru/Alien-Onslaught/tree/main/game_assets/images/game_images)
 
-### [PlayStyle Compass](https://github.com/KhadaAke/PlayStyleCompass)
+### [PlayStyle Compass](https://github.com/miron-alexandru/PlayStyleCompass)
 
 - **Description:** - PlayStyle Compass is a personal guide to discovering video games tailored to your preferences, gaming history, and genre interests. Explore a vast library of games, franchises, and beloved characters, all tailored to your unique preferences and interests.
 
@@ -23,4 +23,4 @@
 - **Demo/Preview:** -
 
 ### My LeetCode Progress
-![Leetcode Stats](https://leetcard.jacoblin.cool/khadaake)
+![Leetcode Stats](https://leetcard.jacoblin.cool/miron-alexandru)
