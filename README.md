@@ -1,6 +1,6 @@
 ### Hello!
 
-#### I am Alex, a Python Developer with a strong foundation in the language and related frameworks. Continuously learning and expanding my skills, I also have practical experience with Django, as well as proficiency in HTML, CSS, and JavaScript.
+#### I am Alex, Proficient Python Developer with a strong foundation in the language and related frameworks. Continuously learning and expanding my skills, I also have practical experience with Django, as well as proficiency in HTML, CSS, and JavaScript.
 
 ### My Notable Projects
 
@@ -19,8 +19,7 @@
 - Create personalized lists of your favorite games and ones you can't wait to dive into. See who shares your gaming style and connect with like-minded players to discover new favorites together.
 
 - Write and read reviews from fellow gamers, sharing your thoughts and insights on your favorite titles. Connect with friends, create friend lists, send messages, share your gaming experiences, and many other things to be discovered.
-- **Technologies Used:** Python / Django / HTML / CSS / JavaScript / API Integration / SQLite 3
-- **Demo/Preview:** -
+- **Technologies Used:** Python / Django / HTML / CSS / JavaScript / API Integration / SQLite 3.
 
 ### My LeetCode Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/miron-alexandru)
