@@ -8,7 +8,9 @@
 
 - **Description:** Alien Onslaught is an space shooting arcade game where you fight against fleets of aliens in order to complete each level and get a higher score. As the level increases the enemies are getting stronger and boss fights are occuring. The game offers multiple features: Different Game Modes / Boss Fights / PvP / Power Ups / both Multiplayer and Singleplayer mode / Different Difficulties / Different Ships / Save & Load feature, and many more.
 - **Technologies Used:** Python, Pygame, Tkinter.
-- **Demo/Preview:** [Game Images can be found here](https://github.com/miron-alexandru/Alien-Onslaught/tree/main/game_assets/images/game_images)
+- **Demo/Preview:**
+- <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/normal3.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/menu.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/game_modes.PNG?raw=True" width="320">
+- [Click here to see all images](https://github.com/miron-alexandru/Alien-Onslaught/tree/main/game_assets/images/game_images)
 
 ### [PlayStyle Compass](https://github.com/miron-alexandru/PlayStyleCompass)
 
@@ -20,6 +22,8 @@
 
 - Write and read reviews from fellow gamers, sharing your thoughts and insights on your favorite titles. Connect with friends, create friend lists, send messages, share your gaming experiences, and many other things to be discovered.
 - **Technologies Used:** Python / Django / HTML / CSS / JavaScript / API Integration / SQLite 3.
-
+- **Demo/Preview:**
+- <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/home.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/acc-actions.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/create-playstyle.PNG?raw=True" width="320">
+- [Click here to see all images](https://github.com/miron-alexandru/PlayStyleCompass/tree/main/project-preview)
 ### My LeetCode Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/miron-alexandru)
