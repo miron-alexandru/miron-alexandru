@@ -49,6 +49,7 @@ I also have comprehensive experience in developing web applications and software
 - **Create & Share Lists:** Make personalized lists of your favorite games or titles you’re eager to try.
 - **Social Features:** Connect with friends, send messages, share experiences, and discover new favorites together.
 - **Community Reviews:** Write and read reviews from fellow gamers, sharing insights on your favorite titles.
+- **Live Notifications:** Receive real-time updates.
 
 #### Technologies Used:
 - Backend: Python / Django
