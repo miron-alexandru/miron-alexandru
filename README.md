@@ -1,6 +1,6 @@
 ### Hello!
 
-#### I am Alex, a Python Developer with a strong foundation in the language and related frameworks. Continuously learning and expanding my skills, I also have practical experience with Django, as well as proficiency in HTML, CSS, and JavaScript.
+#### I’m Alex, a Python Developer with a solid foundation in Python and its frameworks. I’m always eager to learn and grow, with hands-on experience in Django, as well as a strong grasp of HTML, CSS, and JavaScript. My skills extend to problem-solving and troubleshooting both hardware and software issues. I also have comprehensive experience in developing web applications and software solutions, managing projects from start to finish through the full development cycle. Additionally, I’ve developed an interactive game, which has enriched my skills in game development and user experience design.
 
 ### My Notable Projects
 
