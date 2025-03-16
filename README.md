@@ -50,6 +50,7 @@ I also have comprehensive experience in developing web applications and software
 - **Social Features:** Connect with friends, send messages, share experiences, and discover new favorites together.
 - **Community Reviews:** Write and read reviews from fellow gamers, sharing insights on your favorite titles.
 - **Live Notifications:** Receive real-time updates.
+- **API:** A RESTful API for seamless integration with the app, providing endpoints for core features, like data retrieval.
 
 #### Technologies Used:
 - Backend: Python / Django
