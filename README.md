@@ -28,7 +28,7 @@ I also have comprehensive experience in developing web applications and software
 
 #### Technologies Used: Python, Pygame, Tkinter
 
-#### Embark on an intergalactic adventure with Alien Onslaught, where every battle brings you closer to becoming the ultimate space warrior.
+#### Embark on an intergalactic adventure with Alien Onslaught!
 - **Preview:**
 - <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/normal3.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/menu.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/game_modes.PNG?raw=True" width="320">
 - [Click here to see all images](https://github.com/miron-alexandru/Alien-Onslaught/tree/main/game_assets/images/game_images)
