@@ -34,7 +34,7 @@ I also have comprehensive experience in developing web applications and software
 #### PlayStyle Compass is your ultimate platform to explore, connect, and share your gaming journey. Discover new games perfectly tailored to your preferences, and join a community of like-minded players who share your passion for gaming.
 
 #### Preview:
-- <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/home.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/acc-actions.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/create-playstyle.PNG?raw=True" width="320">
+- <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/Animation.gif?raw=true" width="320">
 - [Click here to see all images](https://github.com/miron-alexandru/PlayStyleCompass/tree/main/project-preview)
 
 ### [Alien Onslaught: Space Arcade Shooter](https://github.com/miron-alexandru/Alien-Onslaught)
