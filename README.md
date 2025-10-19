@@ -34,8 +34,8 @@ I also have comprehensive experience in developing web applications and software
 #### PlayStyle Compass is your ultimate platform to explore, connect, and share your gaming journey. Discover new games perfectly tailored to your preferences, and join a community of like-minded players who share your passion for gaming.
 
 #### Preview:
-- <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/Animation.gif?raw=true" width="320">
-- [Click here to see all images](https://github.com/miron-alexandru/PlayStyleCompass/tree/main/project-preview)
+- <video src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/PlayStyle.mp4?raw=true" autoplay loop muted playsinline width="960"></video>
+- [Click here to see images](https://github.com/miron-alexandru/PlayStyleCompass/tree/main/project-preview)
 
 ### [Alien Onslaught: Space Arcade Shooter](https://github.com/miron-alexandru/Alien-Onslaught)
 
@@ -61,7 +61,7 @@ I also have comprehensive experience in developing web applications and software
 
 #### Embark on an intergalactic adventure with Alien Onslaught!
 - **Preview:**
-- <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/normal3.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/menu.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/game_modes.PNG?raw=True" width="320">
-- [Click here to see all images](https://github.com/miron-alexandru/Alien-Onslaught/tree/main/game_assets/images/game_images)
+- <video src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/Video.mp4?raw=true" autoplay loop muted playsinline width="960"></video>
+- [Click here to see images](https://github.com/miron-alexandru/Alien-Onslaught/tree/main/game_assets/images/game_images)
 ### My LeetCode Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/miron-alexandru)
