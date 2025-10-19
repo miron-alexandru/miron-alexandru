@@ -34,7 +34,8 @@ I also have comprehensive experience in developing web applications and software
 #### PlayStyle Compass is your ultimate platform to explore, connect, and share your gaming journey. Discover new games perfectly tailored to your preferences, and join a community of like-minded players who share your passion for gaming.
 
 #### Preview:
-- <video src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/PlayStyle.mp4?raw=true" autoplay loop muted playsinline width="960"></video>
+- <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/home.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/acc-actions.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/PlayStyleCompass/blob/main/project-preview/create-playstyle.PNG?raw=True" width="320">
+- [Watch Demo](https://miron-alexandru.github.io/PlayStyleCompass/PlayStyle.mp4)
 - [Click here to see images](https://github.com/miron-alexandru/PlayStyleCompass/tree/main/project-preview)
 
 ### [Alien Onslaught: Space Arcade Shooter](https://github.com/miron-alexandru/Alien-Onslaught)
@@ -60,8 +61,9 @@ I also have comprehensive experience in developing web applications and software
 #### Technologies Used: Python, Pygame, Tkinter
 
 #### Embark on an intergalactic adventure with Alien Onslaught!
-- **Preview:**
-- [Watch preview](https://miron-alexandru.github.io/Alien-Onslaught/Video.mp4)
+**Preview:**
+- <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/normal3.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/menu.PNG?raw=True" width="320"> <img src="https://github.com/miron-alexandru/Alien-Onslaught/blob/main/game_assets/images/game_images/game_modes.PNG?raw=True" width="320">
+- [Watch Demo](https://miron-alexandru.github.io/Alien-Onslaught/Video.mp4)
 - [Click here to see images](https://github.com/miron-alexandru/Alien-Onslaught/tree/main/game_assets/images/game_images)
 ### My LeetCode Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/miron-alexandru)
