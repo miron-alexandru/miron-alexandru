@@ -61,8 +61,7 @@ I also have comprehensive experience in developing web applications and software
 
 #### Embark on an intergalactic adventure with Alien Onslaught!
 - **Preview:**
-- ### Preview:
-<video src="https://miron-alexandru.github.io/Alien-Onslaught/Video.mp4"></video>
+- [Watch preview](https://miron-alexandru.github.io/Alien-Onslaught/Video.mp4)
 - [Click here to see images](https://github.com/miron-alexandru/Alien-Onslaught/tree/main/game_assets/images/game_images)
 ### My LeetCode Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/miron-alexandru)
